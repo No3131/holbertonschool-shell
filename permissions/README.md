@@ -6,3 +6,4 @@ This project contains scripts for managing Linux users, groups, and file permiss
 - 3-new_owner: Changes the owner of the file hello to betty.
 - 4-empty: Creates an empty file named hello.
 - 4-empty: Creates an empty file named hello.
+- 5-execute: Adds execute permission to the owner of the file hello.
