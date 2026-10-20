@@ -7,3 +7,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **0-hello_world** : affiche "Hello, World" suivi d'un retour a la ligne sur la sortie standard.
 - **1-confused_smiley** : affiche le smiley "(Ôo)'.
 - **2-hellofile** : affiche le contenu du fichier /etc/passwd.
+- **3-twofiles** : affiche le contenu des fichiers /etc/passwd et /etc/hosts.
