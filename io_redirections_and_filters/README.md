@@ -10,3 +10,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **3-twofiles** : affiche le contenu des fichiers /etc/passwd et /etc/hosts.
 - **4-lastlines** : affiche les 10 dernieres lignes du fichier /etc/passwd.
 - **5-firstlines** : affiche les 10 premieres lignes du fichier /etc/passwd.
+- **6-third_line** : affiche la troisieme ligne du fichier iacta.
