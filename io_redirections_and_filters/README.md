@@ -11,3 +11,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **4-lastlines** : affiche les 10 dernieres lignes du fichier /etc/passwd.
 - **5-firstlines** : affiche les 10 premieres lignes du fichier /etc/passwd.
 - **6-third_line** : affiche la troisieme ligne du fichier iacta.
+- **7-file** : cree un fichier au nom complexe contenant des caracteres speciaux et y ecrit Best School.
