@@ -25,3 +25,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **17-hidethisword** : affiche les lignes du fichier /etc/passwd qui ne contiennent pas le motif bin.
 - **18-letteronly** : affiche les lignes du fichier /etc/ssh/sshd_config qui commencent par une lettre (majuscule ou minuscule).
 - **19-AZ** : remplace tous les caracteres A par Z et c par e dans l'entree.
+- **20-hiago** : supprime toutes les lettres c et C de l'entree.
