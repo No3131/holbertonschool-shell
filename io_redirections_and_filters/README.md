@@ -22,3 +22,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **15-countthatword** : affiche le nombre de lignes du fichier /etc/passwd qui contiennent le motif bin.
 - **16-whatsnext** : affiche les lignes du fichier /etc/passwd qui contiennent le motif root et les 3 lignes qui suivent.
 - **16-whatsnext** : affiche les lignes du fichier /etc/passwd qui contiennent le motif root et les 3 lignes qui suivent.
+- **17-hidethisword** : affiche les lignes du fichier /etc/passwd qui ne contiennent pas le motif bin.
