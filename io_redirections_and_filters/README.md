@@ -26,3 +26,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **18-letteronly** : affiche les lignes du fichier /etc/ssh/sshd_config qui commencent par une lettre (majuscule ou minuscule).
 - **19-AZ** : remplace tous les caracteres A par Z et c par e dans l'entree.
 - **20-hiago** : supprime toutes les lettres c et C de l'entree.
+- **21-reverse** : inverse son entree (chaque ligne est affichee a l'envers).
