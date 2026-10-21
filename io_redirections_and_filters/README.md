@@ -13,3 +13,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **6-third_line** : affiche la troisieme ligne du fichier iacta.
 - **7-file** : cree un fichier au nom complexe contenant des caracteres speciaux et y ecrit Best School.
 - **7-file** : cree un fichier au nom special contenant le texte Best School.
+- **9-duplicate_last_line** : duplique la derniere ligne du fichier iacta.
