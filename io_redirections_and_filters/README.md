@@ -14,3 +14,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **7-file** : cree un fichier au nom complexe contenant des caracteres speciaux et y ecrit Best School.
 - **7-file** : cree un fichier au nom special contenant le texte Best School.
 - **9-duplicate_last_line** : duplique la derniere ligne du fichier iacta.
+- **10-no_more_js** : supprime tous les fichiers .js (pas les dossiers) du dossier courant et de ses sous-dossiers.
