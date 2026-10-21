@@ -17,3 +17,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **10-no_more_js** : supprime tous les fichiers .js (pas les dossiers) du dossier courant et de ses sous-dossiers.
 - **11-directories** : compte le nombre de dossiers et sous-dossiers du dossier courant (dossiers caches inclus).
 - **12-newest_files** : affiche les 10 fichiers les plus recents du dossier courant, un par ligne, du plus recent au plus ancien.
+- **13-unique** : lit une liste de mots (un par ligne) et affiche, tries, ceux qui n'apparaissent qu'une seule fois.
