@@ -27,3 +27,4 @@ Ce dossier contient les scripts du projet sur les redirections et les filtres.
 - **19-AZ** : remplace tous les caracteres A par Z et c par e dans l'entree.
 - **20-hiago** : supprime toutes les lettres c et C de l'entree.
 - **21-reverse** : inverse son entree (chaque ligne est affichee a l'envers).
+- **22-users_and_homes** : affiche tous les utilisateurs et leurs repertoires personnels (d'apres /etc/passwd), tries par utilisateur.
